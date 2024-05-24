@@ -41,6 +41,7 @@ Endpoint: `POST /api/OutlierDetection`
 
 - Request Body: A JSON array of 30 data points.
 
+Output - Outlier files if any are saved as csv in Output Folder
 ### Example Request
 
 ```json
