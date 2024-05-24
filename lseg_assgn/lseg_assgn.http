@@ -1,0 +1,6 @@
+@lseg_assgn_HostAddress = http://localhost:5110
+
+GET {{lseg_assgn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
