@@ -30,6 +30,7 @@
 
 ### First API: Get Random Data Points
 
+For ease of grabbing the file for the demo i'm taking it from a local data folder itself, so kindly add the files into the folder and pass the file name
 Endpoint: `GET /api/DataSelection/{fileName}`
 
 - `fileName`: The name of the CSV file in the `Data` folder.
