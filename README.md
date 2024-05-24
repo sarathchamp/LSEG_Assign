@@ -17,7 +17,9 @@
 1. Open Sln file in Visual studio
 2. Build The sloution
 3. Run the solution
-   ##or
+
+    ##or
+   
 ## Docker
 1- Build the docker file and do docker run
 
